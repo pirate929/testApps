@@ -1,10 +1,10 @@
-package com.linmoy.personalSite;
+package com.custom.testApps;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PersonalSiteApplicationTests {
+class TestAppsApplicationTests {
 
 	@Test
 	void contextLoads() {
